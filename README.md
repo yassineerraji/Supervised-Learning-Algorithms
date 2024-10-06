@@ -27,3 +27,8 @@ Welcome to the Supervised Learning Algorithms repository! This collection featur
 	•	Implementing Random Forest for classification tasks
 	•	Feature importance visualization and decision boundary plotting
 	•	Model evaluation using confusion matrix and ROC curve
+
+📊 Datasets
+
+All the datasets used are either synthetic or come from standard libraries like Scikit-learn. 
+If additional external datasets are required, their sources are clearly mentioned within the notebooks.

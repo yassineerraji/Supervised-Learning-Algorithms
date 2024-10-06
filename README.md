@@ -5,24 +5,40 @@ Welcome to the Supervised Learning Algorithms repository! This collection featur
 📚 Table of Contents
 
 	1.	Linear Regression
+ 
 	•	Understanding the principles of linear regression
 	•	Implementing the model from scratch
 	•	Evaluating model performance using Mean Squared Error (MSE) and R-squared metrics
 	•	Visualizing the regression line
+ 
 	2.	Logistic Regression
+ 
 	•	Concept of binary classification using logistic regression
 	•	Model evaluation using confusion matrix, ROC curve, and AUC score
 	•	Plotting decision boundaries and analyzing performance metrics
+ 
 	3.	K-Nearest Neighbors (KNN)
+ 
 	•	Introduction to the KNN algorithm
 	•	Implementing KNN for classification tasks
 	•	Tuning hyperparameters like K and distance metrics
 	•	Evaluating the model using confusion matrix and ROC curve
-	4.	Support Vector Machines (SVM)
+ 
+	4.	Decision Trees
+ 
+	•	Understanding the structure and function of decision trees
+	•	Implementing the decision tree algorithm for classification tasks
+	•	Visualizing decision boundaries and feature importance
+	•	Evaluating the model with accuracy, confusion matrix, and classification report
+ 
+	5.	Support Vector Machines (SVM)
+ 
 	•	Understanding the concept of hyperplanes and support vectors
 	•	Implementing SVM for both linear and non-linear classification
 	•	Model performance evaluation and decision boundary visualization
-	5.	Random Forest
+ 
+	6.	Random Forest
+ 
 	•	Introduction to ensemble learning and decision trees
 	•	Implementing Random Forest for classification tasks
 	•	Feature importance visualization and decision boundary plotting
